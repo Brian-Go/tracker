@@ -1,0 +1,30 @@
+Program run from 2021-06-21 13:47:38.235216 to 2021-06-21 13:48:09.029498
+Process name: Code
+2021-06-21 13:47:58.249899
+2021-06-21 13:47:48.248298
+Process name: chrome
+2021-06-21 13:48:08.251138
+Total time for Code: 20 sec
+Total time for chrome: 10 sec
+
+Program run from 2021-06-21 13:51:07.783373 to 2021-06-21 13:51:52.871126
+Process name: Code
+2021-06-21 13:51:27.815289
+2021-06-21 13:51:37.830309
+2021-06-21 13:51:17.809120
+Process name: Spotify
+2021-06-21 13:51:47.832880
+Total time for Code: 30 sec
+Total time for Spotify: 10 sec
+
+Program run from 2021-06-21 13:52:24.190694 to 2021-06-21 13:53:18.561556
+Process name: Code
+2021-06-21 13:52:34.198252
+Process name: chrome
+2021-06-21 13:53:14.233697
+2021-06-21 13:53:04.226356
+2021-06-21 13:52:44.201040
+2021-06-21 13:52:54.217611
+Total time for Code: 10 sec
+Total time for chrome: 40 sec
+
