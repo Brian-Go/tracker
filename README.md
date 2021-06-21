@@ -1,2 +1,2 @@
 # tracker
-python tracking app run through cmd line
+track app time usage on windows machines

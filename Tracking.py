@@ -18,8 +18,6 @@ def get_time_info():
             process_time[current_app] = {datetime.now()}
         else:
             process_time[current_app].add(datetime.now())
-    
-
 
 def get_results(file_name):
     total_times = {}
