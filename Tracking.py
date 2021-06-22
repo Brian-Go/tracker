@@ -15,9 +15,9 @@ def get_time_info():
         current_app = psutil.Process(win32process.GetWindowThreadProcessId(GetForegroundWindow())[1]).name().replace(".exe", "")
         time.sleep(cycle_sec)
         if current_app not in process_time.keys():
-            process_time[current_app] = {datetime.now()}
+            process_time[current_app] = [datetime.now()]
         else:
-            process_time[current_app].add(datetime.now())
+            process_time[current_app].append(datetime.now())
 
 def get_results(file_name):
     total_times = {}
